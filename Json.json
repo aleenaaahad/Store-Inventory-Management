@@ -1,0 +1,114 @@
+{
+    "store_info": {
+        "store_name": "Hello Kitty Stationary Store",
+        "phone_number": 1234567890,
+        "state": "California",
+        "city": "San Jose",
+        "tax_percentage": 9.38
+    },
+    "product_info": [
+    {
+      "product_code": "01145",
+      "product_name": "Ball Point Pen",
+      "price": 1.99,
+      "description": "Smooth writing pen"
+    },
+    {
+      "product_code": "01151",
+      "product_name": "Pencil",
+      "price": 0.99,
+      "description": "Standard HB pencil"
+    },
+    {
+      "product_code": "01702",
+      "product_name": "Stapler",
+      "price": 4.49,
+      "description": "Pink desk stapler"
+    },
+    {
+      "product_code": "01234",
+      "product_name": "Stapler Pins",
+      "price": 1.29,
+      "description": "Pack of 100 pins"
+    },
+    {
+      "product_code": "01324",
+      "product_name": "Notebook",
+      "price": 5.99,
+      "description": "College-ruled notebook"
+    },
+    {
+      "product_code": "01456",
+      "product_name": "Eraser",
+      "price": 0.50,
+      "description": "Hello Kitty eraser"
+    },
+    {
+      "product_code": "01567",
+      "product_name": "Marker",
+      "price": 2.99,
+      "description": "Bright colored marker"
+    },
+    {
+      "product_code": "01678",
+      "product_name": "Calculator",
+      "price": 15.99,
+      "description": "Basic scientific calculator"
+    },
+    {
+      "product_code": "01189",
+      "product_name": "Felt Tip Pen",
+      "price": 3.49,
+      "description": "Set of 5 felt tip pens"
+    },
+    {
+      "product_code": "01890",
+      "product_name": "Highlighter",
+      "price": 1.49,
+      "description": "Yellow highlighter"
+    },
+    {
+      "product_code": "01900",
+      "product_name": "Ruler",
+      "price": 1.79,
+      "description": "12-inch wooden ruler"
+    },
+    {
+      "product_code": "02012",
+      "product_name": "Mechanical Pencil",
+      "price": 2.49,
+      "description": "Retractable mechanical pencil"
+    },
+    {
+      "product_code": "02134",
+      "product_name": "Colored Pencils",
+      "price": 6.99,
+      "description": "Set of 12 colored pencils"
+    },
+    {
+      "product_code": "02245",
+      "product_name": "Correction Pen",
+      "price": 1.99,
+      "description": "Quick-drying correction pen"
+    },
+    {
+      "product_code": "02356",
+      "product_name": "Scissors",
+      "price": 4.99,
+      "description": "Sharp, durable scissors"
+    },
+    {
+      "product_code": "02467",
+      "product_name": "Pencil Sharpener",
+      "price": 1.29,
+      "description": "Compact pencil sharpener"
+    },
+    {
+      "product_code": "02578",
+      "product_name": "Binder",
+      "price": 3.99,
+      "description": "Durable 1-inch binder"
+    }
+  ]
+}
+ 
